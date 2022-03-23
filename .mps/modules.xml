@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MPSProject">
+    <projectModules>
+      <modulePath path="$PROJECT_DIR$/languages/com.spclngs.customtests/com.spclngs.customtests.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/com.spclngs.customtests.sandbox/com.spclngs.customtests.sandbox.msd" folder="" />
+    </projectModules>
+  </component>
+</project>
